@@ -3,7 +3,7 @@
 <img width="444" alt="Screen Shot 2024-07-11 at 8 15 35 PM" src="https://github.com/user-attachments/assets/b0222ef6-6f1a-4e51-9add-093df105be0c">
 
 
-In this challenge, I used your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
+In this challenge, I used knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
 The challenge consists of following parts:
 
